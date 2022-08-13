@@ -3,7 +3,6 @@
 // [3, 7, 23, 12] -> 19
 // [-4, -6, 89, 6] -> 0
 
-
 using System;
 Console.Write("Введите элементы массива: ");
 string? s = Console.ReadLine();
