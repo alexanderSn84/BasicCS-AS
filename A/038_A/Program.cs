@@ -30,3 +30,4 @@ double Razn(double ax, double an)
 
 Console.WriteLine($"Минимальное значение массива {min}, максимальное значение массива {max}");
 Console.WriteLine("Разница между минимальным и максимальным элементом --> " + Razn(max, min));
+
