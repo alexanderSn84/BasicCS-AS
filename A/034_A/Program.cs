@@ -18,5 +18,3 @@ for (int i = 0; i < a.Length; i++)
 
 Console.Write($"Количество четных чисел \t {chet}");
 Console.WriteLine();
-
-
